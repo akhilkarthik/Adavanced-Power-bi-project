@@ -48,6 +48,8 @@ Implemented a Glassmorphism background design for a modern and sleek aesthetic. 
 
 ## colour code used!
 [sp_colour 2](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/d36a6365-93cf-4e0f-9c0c-4b132c950e70)
+
+
 ![sp_colour1](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/d620bccb-ffe9-452d-8584-508f0e593a89)
 
 
