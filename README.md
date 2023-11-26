@@ -61,8 +61,12 @@ In Our Spotify Power BI analysis project, we used DAX to create custom measures 
 ### Power bi External tools used
 
 - Bravo- For making calender for time series analysis <https://bravo.bi/>
-- HTML content - For image viewing ![Screenshot 2023-11-26 132716](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/69c18915-4b9d-4432-8b0f-d4955182c0f2) 
-- Deneb - For Heat map analysis ![Screenshot 2023-11-26 132651](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/d1ef0d8a-39bf-43fd-97de-8f02801c18ff)
+- HTML content - For image viewing
+![Screenshot 2023-11-26 132716](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/69c18915-4b9d-4432-8b0f-d4955182c0f2) 
+- Deneb - For Heat map analysis
+![Screenshot 2023-11-26 132651](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/d1ef0d8a-39bf-43fd-97de-8f02801c18ff)
+
+
 ### uses
 
 
