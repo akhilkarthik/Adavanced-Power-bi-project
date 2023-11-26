@@ -14,7 +14,7 @@ This repository contains a Power BI analysis focused on visualizing and analyzin
 ![Screenshot 2023-11-26 121209](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/66cd337d-985c-4210-b87e-33a5ea845950)
 
 
-## Components
+## back ground buildoing
 
 ### Power BI Building
 
@@ -43,6 +43,11 @@ Enhanced the Spotify dataset by incorporating external information using Python.
 ### Glassmorphism Background
 
 Implemented a Glassmorphism background design for a modern and sleek aesthetic. The design includes frosted glass-like elements with background blur effects.
+
+![Background](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/dfc6fab0-42ea-41be-aa59-ff461677179f)
+
+
+
 
 ### uses
 
