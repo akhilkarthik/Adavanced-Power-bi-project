@@ -1,0 +1,34 @@
+# Dax Formulas used
+
+- Average stream per year = CALCULATE(AVERAGE('spotify_updated'[streams]),
+  ALLEXCEPT('spotify_updated','Date'[Year]))
+
+- Image html = 
+  Var x =
+  CALCULATE(
+  MAX('spotify_updated'[image_url]),
+  'spotify_updated'[streams] = MAX('spotify_updated'[streams])
+  )
+  return
+
+
+- Max_streams = MAX('spotify_updated'[streams])
+
+
+- Top song streams = CALCULATE(SUM('spotify_updated'[streams]),spotify_updated[streams]=MAX('spotify_updated'[streams]))
+
+- Top song vs avg = var x =[Top song vs avg val] RETURN
+  if(x>0,
+  FORMAT(x,"#.0%") & " " & UNICHAR(9650),
+  FORMAT(x,"#.0%")&" "&UNICHAR(9660))
+
+
+- Top song vs avg val = DIVIDE([Top song streams]-[Average stream per year],[Average stream per year])
+
+- _Track = COUNT('spotify_updated'[track_name])
+
+
+- date = DATE('spotify_updated'[released_year],'spotify_updated'[released_month],'spotify_updated'[released_day])
+
+
+- percent val = AVERAGE('spotify_updated'[energy_%])
