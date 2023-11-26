@@ -46,12 +46,17 @@ Implemented a Glassmorphism background design for a modern and sleek aesthetic. 
 
 ![Background](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/dfc6fab0-42ea-41be-aa59-ff461677179f)
 
-## colour code used
+### Colour code used
 ![sp_colour 2](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/d36a6365-93cf-4e0f-9c0c-4b132c950e70)
 
 
 ![sp_colour1](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/d620bccb-ffe9-452d-8584-508f0e593a89)
 
+
+### DAX (Data Analysis Expressions)
+
+plays a crucial role in Power BI projects as it is the formula language used to define custom calculations, aggregations, and manipulations of data within Power BI models. 
+In Our Spotify Power BI analysis project, we used DAX to create custom measures and calculated columns to derive insights from your Spotify dataset.
 
 
 
