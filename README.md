@@ -9,6 +9,11 @@ An advanced power bi analysis, which will cover ,Enriched dataset with  Python ,
 
 This repository contains a Power BI analysis focused on visualizing and analyzing Spotify data. The analysis incorporates various elements, including HTML cover art, DENEB visuals, and a Glassmorphism background.
 
+
+
+![Screenshot 2023-11-26 121209](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/66cd337d-985c-4210-b87e-33a5ea845950)
+
+
 ## Components
 
 ### Power BI Building
