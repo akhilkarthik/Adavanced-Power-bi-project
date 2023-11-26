@@ -58,9 +58,14 @@ Implemented a Glassmorphism background design for a modern and sleek aesthetic. 
 plays a crucial role in Power BI projects as it is the formula language used to define custom calculations, aggregations, and manipulations of data within Power BI models. 
 In Our Spotify Power BI analysis project, we used DAX to create custom measures and calculated columns to derive insights from your Spotify dataset.
 
+### Power bi External tools used
 
-
+- Bravo- For making calender for time series analysis <https://bravo.bi/>
+- HTML content - For image viewing ![Screenshot 2023-11-26 132716](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/69c18915-4b9d-4432-8b0f-d4955182c0f2) 
+- Deneb - For Heat map analysis ![Screenshot 2023-11-26 132651](https://github.com/akhilkarthik/Adavanced-Power-bi-project/assets/40953068/d1ef0d8a-39bf-43fd-97de-8f02801c18ff)
 ### uses
+
+
 
 - Explore advanced Power BI visualizations like scatter plots,KPI's, Line charts and heatmaps.
 - Enhance user interactivity with slicers, filters, and drill-through functionalities.
